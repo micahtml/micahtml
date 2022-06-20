@@ -1,3 +1,6 @@
+<h1>Hello World!</h1>
+<p>My name is Micah Thornton and I like to build things.</p>
+
 ### Tools & Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
