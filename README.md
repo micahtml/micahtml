@@ -1,5 +1,5 @@
 <h1>Hello World! 	&#127758</h1>
-<p>My name is Micah Thornton and I like to build things.</p>
+<p>My name is Micah Thornton and I'm a software developer/web engineer. I'm from Dallas, TX and currently working at Duckpond Technologies, Inc.</p>
 
 ### Tools & Technologies &#128295;
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
