@@ -1,7 +1,7 @@
-<h1>Hello World!</h1>
+<h1>Hello World! 	&#127758</h1>
 <p>My name is Micah Thornton and I like to build things.</p>
 
-### Tools & Technologies
+### Tools & Technologies &#128295;
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
