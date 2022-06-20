@@ -11,6 +11,8 @@
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+
 
 
 
