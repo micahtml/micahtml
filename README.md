@@ -7,9 +7,9 @@
 
 🌱 I’m currently learning cybersecurity & penetration testing.
 
-![](https://github.com/micahtml/micahtml/blob/e235764f64817c71bdf6778204dc41750a74f816/assets/introduction-to-cybersecurity-tools-cyber-attacks.png)
-![](https://github.com/micahtml/micahtml/blob/e235764f64817c71bdf6778204dc41750a74f816/assets/cybersecurity-compliance-framework-system-administration.png)
-![](https://github.com/micahtml/micahtml/blob/e235764f64817c71bdf6778204dc41750a74f816/assets/cybersecurity-roles-processes-operating-system-security.png)
+![](https://github.com/micahtml/micahtml/blob/5c996d4b5ebd76b7a9e2b79289b683fe13bb377e/assets/introduction-to-cybersecurity-tools-cyber-attacks.png)
+![](https://github.com/micahtml/micahtml/blob/5c996d4b5ebd76b7a9e2b79289b683fe13bb377e/assets/cybersecurity-compliance-framework-system-administration.png)
+![](https://github.com/micahtml/micahtml/blob/5c996d4b5ebd76b7a9e2b79289b683fe13bb377e/assets/cybersecurity-roles-processes-operating-system-security.png)
 
 ### Tools & Technologies &#128295;
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=red)
