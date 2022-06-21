@@ -21,6 +21,7 @@
 
 
 ![alt text](https://github.com/micahtml/micahtml/blob/4f436c249f77a4d95eec0f7252c4efe560b57147/assets/cybersecurity-roles-processes-operating-system-security.png)
+![alt text](https://github.com/micahtml/micahtml/blob/4f436c249f77a4d95eec0f7252c4efe560b57147/assets/cybersecurity-compliance-framework-system-administration.png)
 
 
 
