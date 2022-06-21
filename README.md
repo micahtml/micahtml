@@ -7,6 +7,10 @@
 
 🌱 I’m currently learning cybersecurity & penetration testing.
 
+![](https://github.com/micahtml/micahtml/blob/e235764f64817c71bdf6778204dc41750a74f816/assets/introduction-to-cybersecurity-tools-cyber-attacks.png)
+![](https://github.com/micahtml/micahtml/blob/e235764f64817c71bdf6778204dc41750a74f816/assets/cybersecurity-compliance-framework-system-administration.png)
+![](https://github.com/micahtml/micahtml/blob/e235764f64817c71bdf6778204dc41750a74f816/assets/cybersecurity-roles-processes-operating-system-security.png)
+
 ### Tools & Technologies &#128295;
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=red)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=red)
@@ -19,9 +23,6 @@
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 
-
-![alt text](https://github.com/micahtml/micahtml/blob/4f436c249f77a4d95eec0f7252c4efe560b57147/assets/cybersecurity-roles-processes-operating-system-security.png)
-![alt text](https://github.com/micahtml/micahtml/blob/4f436c249f77a4d95eec0f7252c4efe560b57147/assets/cybersecurity-compliance-framework-system-administration.png)
 
 
 
