@@ -3,14 +3,6 @@
 <h1>Hello World! 	&#127758</h1>
 <h3>My name is Micah Thornton and I'm a software developer/web engineer. I'm from Dallas, TX and currently working at Duckpond Technologies, Inc.</h3>
 
-🔭 I’m currently working on a behavior data tracker to keep up with my 2 year old's tantrums and what not. I'm also building a few social media bots to automate simple actions.
-
-🌱 I’m currently learning cybersecurity & penetration testing.
-
-![](https://github.com/micahtml/micahtml/blob/5c996d4b5ebd76b7a9e2b79289b683fe13bb377e/assets/introduction-to-cybersecurity-tools-cyber-attacks.png)
-![](https://github.com/micahtml/micahtml/blob/5c996d4b5ebd76b7a9e2b79289b683fe13bb377e/assets/cybersecurity-compliance-framework-system-administration.png)
-![](https://github.com/micahtml/micahtml/blob/5c996d4b5ebd76b7a9e2b79289b683fe13bb377e/assets/cybersecurity-roles-processes-operating-system-security.png)
-
 ### Tools & Technologies &#128295;
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=red)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=red)
@@ -23,8 +15,13 @@
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 
+🔭 I’m currently working on a behavior data tracker to keep up with my 2 year old's tantrums and what not. I'm also building a few social media bots to automate simple actions.
 
+🌱 I’m currently learning cybersecurity & penetration testing.
 
+![](https://github.com/micahtml/micahtml/blob/5c996d4b5ebd76b7a9e2b79289b683fe13bb377e/assets/introduction-to-cybersecurity-tools-cyber-attacks.png)
+![](https://github.com/micahtml/micahtml/blob/5c996d4b5ebd76b7a9e2b79289b683fe13bb377e/assets/cybersecurity-compliance-framework-system-administration.png)
+![](https://github.com/micahtml/micahtml/blob/5c996d4b5ebd76b7a9e2b79289b683fe13bb377e/assets/cybersecurity-roles-processes-operating-system-security.png)
 
 <!--
 **micahtml/micahtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
