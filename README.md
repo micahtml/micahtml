@@ -1,4 +1,4 @@
-![alt text](https://github.com/micahtml/micahtml/blob/04d7170ee410bf0ef205fd928c1863bf41d8b213/assets/FC264832-2FE3-4F05-A004-F5021DFD37DE.PNG)
+![alt text](https://github.com/micahtml/micahtml/blob/main/assets/50D85717-1261-42C8-A282-CBA895DD1F07.png)
 
 <h1>Hello World! 	&#127758</h1>
 <h3>My name is Micah Thornton and I'm a software developer/web engineer. I'm from Dallas, TX and currently working at Duckpond Technologies, Inc.</h3>
