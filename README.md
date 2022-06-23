@@ -25,6 +25,7 @@
 ![](https://github.com/micahtml/micahtml/blob/5c996d4b5ebd76b7a9e2b79289b683fe13bb377e/assets/cybersecurity-compliance-framework-system-administration.png)
 ![](https://github.com/micahtml/micahtml/blob/5c996d4b5ebd76b7a9e2b79289b683fe13bb377e/assets/cybersecurity-roles-processes-operating-system-security.png)
 
+Find me on [LinkedIn](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNBqnyarCSh2ahMBH7yIsZQ%3D%3D)
 <!--
 **micahtml/micahtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
