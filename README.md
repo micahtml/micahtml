@@ -21,6 +21,8 @@
 
 <h4>🌱 I’m currently learning cybersecurity & penetration testing.</h4>
 
+<p>Here are a few of the badges I've earned so far:</p>
+
 ![](https://github.com/micahtml/micahtml/blob/5c996d4b5ebd76b7a9e2b79289b683fe13bb377e/assets/introduction-to-cybersecurity-tools-cyber-attacks.png)
 ![](https://github.com/micahtml/micahtml/blob/5c996d4b5ebd76b7a9e2b79289b683fe13bb377e/assets/cybersecurity-compliance-framework-system-administration.png)
 ![](https://github.com/micahtml/micahtml/blob/5c996d4b5ebd76b7a9e2b79289b683fe13bb377e/assets/cybersecurity-roles-processes-operating-system-security.png)
