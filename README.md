@@ -4,7 +4,7 @@
 <h3>My name is Micah Thornton and I'm a software developer/web engineer. I'm from Dallas, TX and currently working at Duckpond Technologies, Inc.</h3>
 
 <h4>🔭 I’m currently working on a behavior data tracking web application to document & examine the correlation of my 2 year old's tantrums... and what not. 
-  I'm also building a few social media bots to automate simple actions</h4>
+  I'm also building a few social media bots to automate common & simple tasks.</h4>
 
 ### Tools & Technologies &#128295;
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=red)
