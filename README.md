@@ -1,12 +1,9 @@
 ![alt text](https://github.com/micahtml/micahtml/blob/main/assets/50D85717-1261-42C8-A282-CBA895DD1F07.png)
 
 <h1>Hello World! 	&#127758</h1>
-<h3>My name is Micah Thornton and I'm a software developer/web engineer. I'm from Dallas, TX and currently working at Duckpond Technologies, Inc.</h3>
+<h3>My name is Micah Thornton and I'm a software developer/web engineer. I'm from Dallas, TX currently working at Duckpond Technologies, Inc.</h3>
 
-<h4>🔭 I’m currently working on a behavior data tracking web application to document & examine the correlation of my 2 year old's tantrums... and what not. 
-  I'm also building a few social media bots to automate common & simple tasks.</h4>
-
-### Tools & Technologies &#128295;
+Tools & Technologies &#128295;
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=red)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=red)
 
