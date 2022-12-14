@@ -1,7 +1,7 @@
 ![alt text](https://github.com/micahtml/micahtml/blob/main/assets/50D85717-1261-42C8-A282-CBA895DD1F07.png)
 
 <h1>Hello World! 	&#127758</h1>
-<h3>My name is Micah Thornton and I'm a software developer/web engineer. I'm from Dallas, TX currently working at Duckpond Technologies, Inc.</h3>
+<h3>My name is Micah Thornton and I am a Cyber Security Analyst & Web Engineer at Duckpond Technologies, Inc.</h3>
 
 <h4>&#128295; Tools & Technologies</h4>
 
@@ -16,10 +16,6 @@
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 
-
-<h4>🌱 I’m currently learning cybersecurity & penetration testing.</h4>
-
-<p>Here are a few of the badges I've earned so far:</p>
 
 ![](https://github.com/micahtml/micahtml/blob/main/assets/ibm-cybersecurity-analyst-professional-certificate.png)
 
