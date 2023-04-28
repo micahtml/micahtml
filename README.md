@@ -26,8 +26,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=
 ![](https://www.codewars.com/users/micahtml/badges/large)
 
 
-![](https://github.com/micahtml/micahtml/blob/main/assets/ibm-cybersecurity-analyst-professional-certificate.png)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=micahtml&theme=tokyonight" alt="mystreak"/>
 
 <!--
 **micahtml/micahtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
