@@ -16,13 +16,10 @@
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 
+![](https://www.codewars.com/users/micahtml/badges/small)
 
 ![](https://github.com/micahtml/micahtml/blob/main/assets/ibm-cybersecurity-analyst-professional-certificate.png)
 
-![](https://github.com/micahtml/micahtml/blob/main/assets/cyber-threat-intelligence.png)
-![](https://github.com/micahtml/micahtml/blob/main/assets/cybersecurity-compliance-framework-system-administration.png)
-![](https://github.com/micahtml/micahtml/blob/main/assets/penetration-testing-incident-response-and-forensics.png)
-![](https://github.com/micahtml/micahtml/blob/main/assets/network-security-database-vulnerabilities.png)
 
 Find me on [LinkedIn](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNBqnyarCSh2ahMBH7yIsZQ%3D%3D)
 <!--
