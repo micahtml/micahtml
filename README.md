@@ -1,7 +1,6 @@
 ![alt text](https://github.com/micahtml/micahtml/blob/main/assets/IMG_0085.jpeg)
 
-<h1>Hello World! 	&#127758</h1>
-<h3>My name is Micah Thornton and I am a Cyber Security Analyst & Web Engineer at Duckpond Technologies, Inc.</h3>
+<h3>My name is Micah Thornton and I am a technologist, currently working at Duckpond Technologies, Inc.</h3>
 
 <h4>&#128295; Tools & Technologies</h4>
 
