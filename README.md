@@ -22,6 +22,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 
 
+
 ![](https://www.codewars.com/users/micahtml/badges/large)
 
 
