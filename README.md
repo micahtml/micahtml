@@ -8,7 +8,7 @@ Overall, I am a well-rounded IT professional with a diverse skill set that allow
 
 Find me on [LinkedIn](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNBqnyarCSh2ahMBH7yIsZQ%3D%3D)
 
-<h4>&#128295; Tools & Technologies</h4>
+<h4>&#128295; Tech Stack</h4>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=red)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=red)
