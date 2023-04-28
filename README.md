@@ -1,4 +1,4 @@
-![alt text](https://github.com/micahtml/micahtml/blob/main/assets/IMG_0085.jpeg)
+![alt text](https://github.com/micahtml/micahtml/blob/main/assets/IMG_0089.jpeg)
 
 <h3>My name is Micah Thornton and I am a technologist, currently working at Duckpond Technologies, Inc.</h3>
 
