@@ -4,8 +4,6 @@
 
 Find me on [LinkedIn](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNBqnyarCSh2ahMBH7yIsZQ%3D%3D)
 
-![](https://www.codewars.com/users/micahtml/badges/small)
-
 <h4>&#128295; Tools & Technologies</h4>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=red)
@@ -18,6 +16,8 @@ Find me on [LinkedIn](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+
+![](https://www.codewars.com/users/micahtml/badges/large)
 
 
 ![](https://github.com/micahtml/micahtml/blob/main/assets/ibm-cybersecurity-analyst-professional-certificate.png)
