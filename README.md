@@ -19,7 +19,9 @@ Find me on [LinkedIn](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=
 
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 <h3>Code Wars</h3>
@@ -29,6 +31,8 @@ Find me on [LinkedIn](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=
 <h3>Contribution Streak</h3>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=micahtml&theme=tokyonight" alt="mystreak"/>
+
+
 
 <!--
 **micahtml/micahtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
