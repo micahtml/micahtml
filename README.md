@@ -22,9 +22,11 @@ Find me on [LinkedIn](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 
 
+<h3>Code Wars</h3>
 
 ![](https://www.codewars.com/users/micahtml/badges/large)
 
+<h3>Contribution Streak</h3>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=micahtml&theme=tokyonight" alt="mystreak"/>
 
