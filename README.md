@@ -8,7 +8,7 @@ Overall, I am a well-rounded IT professional with a diverse skill set that allow
 
 Find me on [LinkedIn](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNBqnyarCSh2ahMBH7yIsZQ%3D%3D)
 
-<!-- [![Micah Thornton Medium](https://github-readme-medium.vercel.app/?username=micahtml)](https://medium.com/@micahtml) -->
+![](https://github.com/micahtml/micahtml/blob/main/assets/google-cybersecurity-certificate.png)
 
 <h3>Tech Stack</h3>
 
