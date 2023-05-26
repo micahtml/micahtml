@@ -21,7 +21,8 @@ Find me on [LinkedIn](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=
 
 <h3>Code Wars</h3>
 
-![](https://www.codewars.com/users/micahtml/badges/large)
+
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=micahtml&theme=dark)](https://github.com/micahtml/github-readme-codewars)
 
 <h3>Contribution Streak</h3>
 
