@@ -6,7 +6,7 @@ In addition to my current skill set, I am an aspiring penetration tester with a 
 
 Overall, I am a well-rounded IT professional with a diverse skill set that allows me to tackle a wide range of challenges. My passion for technology and my commitment to staying up-to-date with the latest trends and advancements make me a valuable asset to any organization.</p>
 
-Find me on [LinkedIn](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNBqnyarCSh2ahMBH7yIsZQ%3D%3D)
+Find me on [LinkedIn](https://www.linkedin.com/in/micah-thornton-791a54226?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNBqnyarCSh2ahMBH7yIsZQ%3D%3D) and check out my [Blog](https://medium.com/@micahtml)
 
 
 <h3>Tech Stack</h3>
