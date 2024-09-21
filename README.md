@@ -1,7 +1,6 @@
 ![alt text](https://github.com/micahtml/micahtml/blob/main/assets/IMG_0089.jpeg)
 
 <p>I am a highly skilled IT professional with expertise in web development, software engineering, and data analysis. I am proficient in HTML, CSS, JavaScript, Django, PHP, Python, SQL, MySQL, Linux, Kali Linux, and AWS. My experience with complex data structures, data visualization, and relational databases makes me capable of handling any data analysis challenge. I am also knowledgeable in networking, DNS, subnetting, VPN, IP networking, and routing.
-
 In addition to my current skill set, I am an aspiring penetration tester with a strong interest in computer forensics. My expertise in bash, PowerShell, and VMware enables me to handle any challenge in this field. With my experience in troubleshooting and complex data structures, I am well-equipped to identify and resolve vulnerabilities quickly.
 
 Overall, I am a well-rounded IT professional with a diverse skill set that allows me to tackle a wide range of challenges. My passion for technology and my commitment to staying up-to-date with the latest trends and advancements make me a valuable asset to any organization.</p>
